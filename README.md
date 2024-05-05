@@ -40,7 +40,7 @@
 
 一、Android Studio
 ---
-    在Window 11作業系統下，使用的Java來設計界面與功能。
+    在Window 11作業系統下，使用Java來設計界面與功能。
 
 二、Firebase雲端資料庫
 ---
